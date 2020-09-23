@@ -1,0 +1,13 @@
+Form1 = 110, 110, 508, 456, Z, 88, 88, 486, 434, C
+cJohna_Particle = 0, 0, 0, 0, C
+cJohna_BoundingBox = 0, 0, 0, 0, C
+cJohna_Sound = 132, 132, 624, 413, 
+johna_DX7 = 66, 66, 558, 347, 
+GLOB = 66, 66, 464, 412, 
+cJohna_Xfile = 0, 0, 0, 0, C
+DeviceDIALOGUE = 132, 132, 530, 478, , 110, 110, 508, 456, C
+cJohna_landScape = 88, 88, 486, 434, 
+cMATH = 0, 0, 0, 0, C
+cDIBSection = 0, 0, 0, 0, C
+cJohna_SkyBox = 22, 22, 420, 368, 
+cJohna_Sphere = 44, 44, 442, 390, 
